@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 🤠
+
+  * Programming Languages: Proficient in Java
+  * Development Frameworks: Experienced with mainstream backend frameworks such as Spring, Spring Boot, MyBatis/MyBatis Plus
+  * Databases: Proficient in using MySQL and Redis databases
+
+
+
+
+
 
 <!--
 **hypocodeemia/hypocodeemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
