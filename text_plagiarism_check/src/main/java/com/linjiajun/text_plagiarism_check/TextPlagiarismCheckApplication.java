@@ -16,6 +16,7 @@ public class TextPlagiarismCheckApplication {
     public static void main( String[] args ) {
         // 检查命令行参数
         if (args.length != 3) {
+            System.out.println("参数不全，请参考下列说明");
             printUsage();
             System.exit(1);
         }
